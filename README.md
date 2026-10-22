@@ -1,7 +1,5 @@
 # Ember Rift
 
-![Ember Rift](art/ember-rift-cover.webp)
-
 A crossover Pokémon ROM hack for **FireRed**. **Kanto and Hoenn are collapsing into each other**, and
 Hoenn's Gym Leaders, Elite Four and Champion challenge you on your way through Kanto.
 
